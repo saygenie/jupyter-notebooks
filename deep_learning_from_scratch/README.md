@@ -11,4 +11,4 @@ docker run --rm -p 8888:8888 -v $(pwd):/tf tensorflow/tensorflow:latest-jupyter
 
 - Chapter 2
 - Chapter 3
-- Chapter 4
+- [Chapter 4](./chapter_4.ipynb)
